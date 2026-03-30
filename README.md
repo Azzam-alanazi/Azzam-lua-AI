@@ -19,8 +19,8 @@ A local AI chatbot specialized in Lua programming, powered by [Ollama](https://o
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Azzam-alanazi/Azzam-lua-AI.git
+cd Azzam-lua-AI
 ```
 
 **2. Install Python dependencies**
